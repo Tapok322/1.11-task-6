@@ -1,0 +1,15 @@
+C:\Users\prdb\source\repos\Task_6\bin\Debug\net8.0\Task_6.exe
+C:\Users\prdb\source\repos\Task_6\bin\Debug\net8.0\Task_6.deps.json
+C:\Users\prdb\source\repos\Task_6\bin\Debug\net8.0\Task_6.runtimeconfig.json
+C:\Users\prdb\source\repos\Task_6\bin\Debug\net8.0\Task_6.dll
+C:\Users\prdb\source\repos\Task_6\bin\Debug\net8.0\Task_6.pdb
+C:\Users\prdb\source\repos\Task_6\obj\Debug\net8.0\Task_6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prdb\source\repos\Task_6\obj\Debug\net8.0\Task_6.AssemblyInfoInputs.cache
+C:\Users\prdb\source\repos\Task_6\obj\Debug\net8.0\Task_6.AssemblyInfo.cs
+C:\Users\prdb\source\repos\Task_6\obj\Debug\net8.0\Task_6.csproj.CoreCompileInputs.cache
+C:\Users\prdb\source\repos\Task_6\obj\Debug\net8.0\Task_6.sourcelink.json
+C:\Users\prdb\source\repos\Task_6\obj\Debug\net8.0\Task_6.dll
+C:\Users\prdb\source\repos\Task_6\obj\Debug\net8.0\refint\Task_6.dll
+C:\Users\prdb\source\repos\Task_6\obj\Debug\net8.0\Task_6.pdb
+C:\Users\prdb\source\repos\Task_6\obj\Debug\net8.0\Task_6.genruntimeconfig.cache
+C:\Users\prdb\source\repos\Task_6\obj\Debug\net8.0\ref\Task_6.dll
